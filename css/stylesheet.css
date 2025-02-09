@@ -1,3 +1,6 @@
 html {
   background: #f0f0f0;
 }
+.none {
+  display: none; /* 初期状態で非表示 */
+}
